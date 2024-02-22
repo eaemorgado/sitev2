@@ -397,8 +397,8 @@ header{
     }
 
     .btn-contato{
-        width: 14rem;
-        height: 2.5rem;
+        width: 400px;
+        height: 60px;
         border-radius: 50px;
         border: none;
         color: var(--cinza);
