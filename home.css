@@ -75,18 +75,18 @@ header{
     .imagem-fundo{
         padding: 140px 50px 25px 50px;
         width: calc(100vw - 100px);
-        height: 55vh;
+        height: 60vh;
     }
     
     .titulo-home{
         width: 290px;
-        font-size: 1.9rem;
+        font-size: 1.7rem;
         font-weight: 700;
     }
 
     .btn-contato{
-        width: 11.5rem;
-        height: 2.4rem;
+        width: 200px;
+        height: 45px;
         margin-top: 2.4rem;
         background-color: var(--verde);
         border: none;
@@ -139,8 +139,8 @@ header{
     }
 
     .btn-comecar{
-        width: 9rem;
-        height: 2.1rem;
+        width: 11rem;
+        height: 2.6rem;
         margin-top: 2.4rem;
         background-color: var(--verde);
         border: none;
